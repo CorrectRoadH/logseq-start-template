@@ -1,0 +1,18 @@
+- [[Indie Hacker]]
+- [[Marketing]]
+- [[Math]]
+- [[Logseq Plugin]]
+- [[Learning ]]
+- [[Books]]
+- [[Movies]]
+- [[MIT 18.01]]
+- [[MIT 18.01]]
+- [[MIT 6.S081]]
+- [[MIT6.824]]
+- [[MIT Couse]]
+- [[Learn AI]]
+- [[Generative AI for Everyone]]
+- {{renderer :gallery, (page-property tag area), Area}}
+- {{renderer :gallery, (page-property tag project), Project}}
+- {{renderer :gallery, (page-property tag res), Resource}}
+- {{renderer :gallery, (page-property tag hello), No}}
